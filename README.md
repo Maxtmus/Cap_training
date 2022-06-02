@@ -3,24 +3,45 @@ The pupose of this workshop is to get familiar with using a GitHub.
 Before start, please make sure you are meeting the requirements.  
 This repository has presentation, which might be usefull before participating in the workshop. Especially if this is the first time you are using version control system.
 
-## Requirements
+* [Introduction](#cap_training)
+* [Prerequisites](#prerequisites)
+* [Naming conventions](#naming_conventions)
+* [Training](#training)
+	* [Meeting the requirements](#step_1)
+	* [Initialising the repository](#step_2)
+	* [Commiting the changes](#step_3)
+	* [Code review](#step_4)
+	* [Integration with GitHub Projects](#step_5)
+	* [Finalising a welcome task](#step_6)
+	* [Feedback](#step_7)
+	* [Useful commands](#useful-commands)
 
-## Naming conventions
+## Prerequisites
 
-## Steps to reproduce
+## Naming_conventions
 
-### Step 1 - Meeting the requirements
 
-### Step 2 - Initialising the repository
+## Training
 
-### Step 3 - Commiting changes
+### Step_1
+####  Meeting the requirements
 
-### Step 4 - Code review
+### Step_2
+####  Initialising the repository
 
-### Step 5 - Integration with GitHub Projects
+### Step_3
+####  Commiting the changes
 
-### Step 6 - Finalising a welcome task
+### Step_4
+####  Code review
 
-### Step 7 - Feedback
+### Step_5
+####  Integration with GitHub Projects
 
-## Final words from an Author
+### Step_6
+####  Finalising a welcome task
+
+### Step_7
+####  Feedback
+
+## Useful commands
