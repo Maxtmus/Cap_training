@@ -48,7 +48,11 @@ This repository has presentation, which might be usefull before participating in
 * Pull the newest changes from the remote repository
 	* $ git pull
 * Create a new branch for yourself with following format:
-	* {name}/\{issueId}/\update-halloffame
+	* {name}/{issueId}/update-hall-of-fame
+	* $ git branch {branch}
+* Switch to your new branch
+	* $ git checkout {branch}
+	* Follow git error message on how to connect to remote branch
 
 ###  Commiting the changes
 * Open the file with your favoureite text editor
